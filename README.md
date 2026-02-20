@@ -1,5 +1,7 @@
 # 📊 Projetos em Excel
 
+![Imagem dos Projetos em Excel](./ProjetosExcel.png)
+
 Este repositório reúne diversos projetos desenvolvidos em **Microsoft Excel**, utilizando recursos avançados como:
 
 - **Power Pivot**
